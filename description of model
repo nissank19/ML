@@ -1,0 +1,1 @@
+got a sample file from kaggle that contains sonar data for submarines if an object is a rock or a mine, use logistic regression with 208 data points to train the model to predict, used 0.1 of data for testing 
